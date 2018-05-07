@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">Mapzz</string>
     <string name="title_activity_mapzz">Map</string>
+    <string name="map_legend_flowers">Flowers</string>
+    <string name="map_legend_fruits">Fruits</string>
+    <string name="map_legend_vegetables">Vegetables</string>
+    <string name="profile_messages_button">Messages</string>
+    <string name="profile_friends_button">Friends</string>
+    <string name="profile_plant_information">Plant Information:</string>
+    <string name="profile_friends">Friends:</string>
+    <string name="profile_friends_see_all">See All</string>
+    <string name="profile_add_friend_button">Add Friend</string>
+    <string name="profile_chat_button">Chat</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="home_title">PLANTBUDDIES</string>
 </resources>
