@@ -39,11 +39,11 @@
             android:resource="@array/preloaded_fonts" />
 
         <activity
-            android:name=".ui.ProfileView"
-            android:parentActivityName=".ui.Mapzz"
+            android:name=".ui.profile.ProfileView"
+            android:parentActivityName=".ui.map.Mapzz"
             android:theme="@style/AppTheme.NoActionBar"/>
         <activity
-            android:name=".ui.Mapzz"
+            android:name=".ui.map.Mapzz"
             android:label="@string/title_activity_mapzz">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

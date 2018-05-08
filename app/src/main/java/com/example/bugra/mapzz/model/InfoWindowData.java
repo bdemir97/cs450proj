@@ -1,4 +1,4 @@
-package com.example.bugra.mapzz;
+package com.example.bugra.mapzz.model;
 
 
 import android.text.style.BackgroundColorSpan;

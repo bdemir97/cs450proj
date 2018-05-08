@@ -1,13 +1,13 @@
-package com.example.bugra.mapzz.ui;
+package com.example.bugra.mapzz.ui.map;
 
 import android.content.Intent;
 import android.widget.ImageButton;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
-import com.example.bugra.mapzz.CustomInfoWindowGoogleMap;
-import com.example.bugra.mapzz.InfoWindowData;
 import com.example.bugra.mapzz.R;
+import com.example.bugra.mapzz.model.InfoWindowData;
+import com.example.bugra.mapzz.ui.profile.ProfileView;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;

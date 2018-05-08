@@ -1,4 +1,4 @@
-package com.example.bugra.mapzz.ui;
+package com.example.bugra.mapzz.ui.profile;
 
 import android.app.Activity;
 import android.os.Bundle;

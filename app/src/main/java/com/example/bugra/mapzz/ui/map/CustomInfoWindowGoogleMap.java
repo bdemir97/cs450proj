@@ -1,4 +1,4 @@
-package com.example.bugra.mapzz;
+package com.example.bugra.mapzz.ui.map;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,6 +7,8 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.example.bugra.mapzz.R;
+import com.example.bugra.mapzz.model.InfoWindowData;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.model.Marker;
 
